@@ -1,0 +1,3 @@
+[submodule "attendeeapp_android"]
+	path = attendeeapp_android
+	url = https://github.com/eventbrite/attendeeapp_android.git
